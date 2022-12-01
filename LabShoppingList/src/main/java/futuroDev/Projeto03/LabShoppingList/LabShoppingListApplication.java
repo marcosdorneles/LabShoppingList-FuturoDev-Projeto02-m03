@@ -13,10 +13,6 @@ public class LabShoppingListApplication {
 		SpringApplication.run(LabShoppingListApplication.class, args);
 	}
 
-//	@GetMapping("/teste")
-//	public String teste() {
-//		return "Teste";
-//	}
 }
 
 
