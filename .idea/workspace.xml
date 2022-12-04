@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cda0b990-7a29-4e64-98c3-65a93039422c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabShoppingList/src/main/java/futuroDev/Projeto03/LabShoppingList/springFox/SpringFoxConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabShoppingList/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LabShoppingList/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabShoppingList/src/main/java/futuroDev/Projeto03/LabShoppingList/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabShoppingList/src/main/java/futuroDev/Projeto03/LabShoppingList/controller/ProdutoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabShoppingList/src/main/java/futuroDev/Projeto03/LabShoppingList/models/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabShoppingList/src/main/java/futuroDev/Projeto03/LabShoppingList/models/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabShoppingList/src/main/java/futuroDev/Projeto03/LabShoppingList/service/ProdutoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabShoppingList/src/main/java/futuroDev/Projeto03/LabShoppingList/service/ProdutoService.java" afterDir="false" />
-    </list>
+    <list default="true" id="cda0b990-7a29-4e64-98c3-65a93039422c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
