@@ -19,6 +19,12 @@ public class ProdutoService {
 
     public void excluir(Produto produto){repository.delete(produto);}
 
+
+    //testando delecão por id
+    public void deleteById(Long idUsuario){
+        repository.deleteById(idUsuario);
+    }
+
     public List<Produto>buscaTodos(){
         return (List<Produto>) repository.findAll();
     }

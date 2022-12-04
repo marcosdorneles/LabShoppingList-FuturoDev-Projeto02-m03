@@ -10,11 +10,13 @@ public class Produto {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+//    @ManyToOne
+//    @JoinColumn(name = "produto", referencedColumnName = "id")
     private long id;
     private String nome;
     private String descricao;
 
-    private int valor;
+    private double valor;
 
     private String status;
 
@@ -42,11 +44,11 @@ public class Produto {
         this.descricao = descricao;
     }
 
-    public int getValor() {
+    public double getValor() {
         return valor;
     }
 
-    public void setValor(int valor) {
+    public void setValor(double valor) {
         this.valor = valor;
     }
 
